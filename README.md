@@ -1,4 +1,4 @@
-# Mystic
+# Mystic Project
 
   ## Key Features
   Murder Mystery
@@ -9,19 +9,19 @@
   * [Credits](#credits)
   * [License](#license)
   * [GitHub](#github)
-  * [Email Adress](#email)
+  * [Email Address](#email)
   
   ### Install
-  VS
+  Github
 
   ### Credits
-  Youtube
+  Youtube 
 
   ### License
-  This application is covered by ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT).
+  This application is covered by ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)(License link not found.).
 
   ### GitHub
   [marissamelo91](https://github.com/marissamelo91)
   
-  ### Email Adress 
-  [marissa.melo@gmail.com](mailto:marissa.melo@gmail.com)
+  ### Email Address 
+  [marissa.melo@yahoo.com](mailto:marissa.melo@yahoo.com)

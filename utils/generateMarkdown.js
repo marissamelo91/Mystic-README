@@ -50,7 +50,7 @@ function generateMarkdown(data) {
   * [Credits](#credits)
   * [License](#license)
   * [GitHub](#github)
-  * [Email Adress](#email)
+  * [Email Address](#email)
   
   ### Install
   ${data.install}
@@ -64,7 +64,7 @@ function generateMarkdown(data) {
   ### GitHub
   [${data.github}](https://github.com/${data.github})
   
-  ### Email Adress 
+  ### Email Address 
   [${data.email}](mailto:${data.email})
 `;
 }
