@@ -1,7 +1,7 @@
 # Mystic
 
   ## Key Features
-  Long Story
+  Murder Mystery
   
   ### Table of Contents
   * [Key Features](#key-features)
@@ -9,16 +9,19 @@
   * [Credits](#credits)
   * [License](#license)
   * [GitHub](#github)
+  * [Email Adress](#email)
   
   ### Install
-  Node
+  VS
 
   ### Credits
-  Bro Code
+  Youtube
 
   ### License
   This application is covered by ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT).
 
   ### GitHub
-  [Marissa@gmail.com](https://github.com/Marissa@gmail.com)
+  [marissamelo91](https://github.com/marissamelo91)
   
+  ### Email Adress 
+  [marissa.melo@gmail.com](mailto:marissa.melo@gmail.com)
