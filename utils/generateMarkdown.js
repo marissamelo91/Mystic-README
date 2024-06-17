@@ -1,5 +1,5 @@
-// function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+//function that returns a license badge based on which license is passed in
+//if there is no license, return an empty string
 function renderLicenseBadge(licenseType) {
   if (licenseType === 'MIT') {
     return '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
@@ -14,8 +14,8 @@ function renderLicenseBadge(licenseType) {
 }
 
 
-// function that returns the license link
-// If there is no license, return an empty string
+//function that returns the license link
+//If there is no license, return an empty string
 function renderLicenseLink(license) {
   switch (license.toLowerCase()) {
     case "mit":
@@ -29,8 +29,8 @@ function renderLicenseLink(license) {
   }
 }
 
-// function that returns the license section of README
-// If there is no license, return an empty string
+//function that returns the license section of README
+//if there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === "None") {
     return ``;
@@ -39,37 +39,41 @@ function renderLicenseSection(license) {
 }
 
 
-// function to generate markdown for README
+//function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Key Features
   ${data.keyFeatures}
   
-  ### Table of Contents
+  ## Table of Contents
   * [Key Features](#key-features)
   * [Install](#install)
+  * [Test](#test)
   * [Credits](#credits)
   * [License](#license)
-  * [GitHub](#github)
+  * [Github](#github)
   * [Email Address](#email)
   
-  ### Install
+  ## Install
   ${data.install}
+  
+  ## Test
+  ${data.test}
 
-  ### Credits
+  ## Credits
   ${data.credits}
 
-  ### License
+  ## License
   ${renderLicenseSection(data.license)}
 
-  ### GitHub
-  [${data.github}](https://github.com/${data.github})
-  
-  ### Email Address 
-  [${data.email}](mailto:${data.email})
+  ## Github
+  ${data.github}
+
+  ## Email Address
+  ${data.email}
 `;
 }
 
- // export the generateMarkdown function
+ //export the generateMarkdown function
 module.exports = generateMarkdown;

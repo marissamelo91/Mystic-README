@@ -1,27 +1,31 @@
-# Mystic Project
+# Mystic Readme
 
   ## Key Features
-  Murder Mystery
+  Readme Generator
   
-  ### Table of Contents
+  ## Table of Contents
   * [Key Features](#key-features)
   * [Install](#install)
+  * [Test](#test)
   * [Credits](#credits)
   * [License](#license)
-  * [GitHub](#github)
+  * [Github](#github)
   * [Email Address](#email)
   
-  ### Install
-  VS Code
+  ## Install
+  npm i
+  
+  ## Test
+  read the manual
 
-  ### Credits
-  Youtube
+  ## Credits
+  Youtube, TA
 
-  ### License
+  ## License
   This application is covered by ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT).
 
-  ### GitHub
-  [marissamelo91](https://github.com/marissamelo91)
-  
-  ### Email Address 
-  [marissa.melo91@yahoo.com](mailto:marissa.melo91@yahoo.com)
+  ## Github
+  marissa.melo91
+
+  ## Email Address
+  marissa.melo91@yahoo.com

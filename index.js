@@ -1,10 +1,10 @@
-// Include packages needed for this application
+//include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
 
-// array of questions for user input
+//array of questions for user input
 const questions = [
     {
         type: 'input',
@@ -24,6 +24,12 @@ const questions = [
     },
 
     {
+        type: "input",
+        message: "Provide instructions for testing your project.",
+        name: "test",
+    },
+
+    {
         type: 'input',
         name: 'credits',
         message: 'List contributions',
@@ -37,6 +43,7 @@ const questions = [
         message: 'What type of License does your project use?',
     },
 
+   
     {
         type: "input",
         message: "What is your GitHub username?",
@@ -50,7 +57,7 @@ const questions = [
     },
 ];
 
-// function to write README file
+//function to write README file
 function writeToFile(fileName, data) {
     return new Promise((resolve, reject) => {
         fs.writeFile(fileName, data, error => {
@@ -83,5 +90,5 @@ function init() {
         });
 }
 
-// Function call to initialize app
+//function call to initialize app
 init();
