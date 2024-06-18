@@ -13,19 +13,19 @@
   * [Email Address](#email)
   
   ## Install
-  npm i
+  npm i 8.2.4
   
   ## Test
   read the manual
 
   ## Credits
-  Youtube, TA
+  youtube
 
   ## License
-  This application is covered by ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT).
+  This application is covered by ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)(https://www.gnu.org/licenses/gpl-3.0.html).
 
   ## Github
-  marissa.melo91
+  marissamelo91
 
   ## Email Address
   marissa.melo91@yahoo.com

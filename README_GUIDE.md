@@ -26,12 +26,16 @@ WHEN I click on the links in the Table of Contents<br>
 THEN I am taken to the corresponding section of the README<br>
 
 ## Installation
-
+In order for the command line application to run, npm i inquirer@8.2.4 package needs to be installed.
+The application will then be invoked by using the following command, node.index js. 
 
 ## Credits
-
+Youtube (Brocode)<br>
+Tutor Session <br>
+Professor and classmates<br>
+Class lectures and AI tools <br>
 
 ## Walkthrough Video 
+https://drive.google.com/file/d/1ZbJAso59IMPGuHQAWtHWp9LHrlVz-VVS/view?usp=sharing
 
 
-## Questions 
