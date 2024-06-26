@@ -1,11 +1,12 @@
-# Mystic Readme
+# mystic readme
 
   ## Key Features
-  Readme Generator
+  readme generator
   
   ## Table of Contents
   * [Key Features](#key-features)
   * [Install](#install)
+  * [Usage](#usage)
   * [Test](#test)
   * [Credits](#credits)
   * [License](#license)
@@ -13,19 +14,22 @@
   * [Email Address](#email)
   
   ## Install
-  npm i 8.2.4
+  npm install
+
+  ## Usage
+  npm i
   
   ## Test
-  read the manual
+  npm test
 
   ## Credits
-  youtube
+  youtube and classmates
 
   ## License
-  This application is covered by ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)(https://www.gnu.org/licenses/gpl-3.0.html).
+  This application is covered by ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT).
 
   ## Github
-  marissamelo91
+  https://github.com/marissamelo91
 
   ## Email Address
   marissa.melo91@yahoo.com

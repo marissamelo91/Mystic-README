@@ -20,7 +20,13 @@ const questions = [
     {
         type: 'input',
         name: 'install',
-        message: 'How do you Install your Project?',
+        message: 'How do you install your Project?',
+    },
+
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'Please provide instructions for using your project?',
     },
 
     {
@@ -39,7 +45,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        choices: ["MIT", "GPLv3", "GPL"],
+        choices: ["MIT", "GPLv3", "GPL", "None"],
         message: 'What type of License does your project use?',
     },
 

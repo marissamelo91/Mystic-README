@@ -49,6 +49,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   * [Key Features](#key-features)
   * [Install](#install)
+  * [Usage](#usage)
   * [Test](#test)
   * [Credits](#credits)
   * [License](#license)
@@ -57,6 +58,9 @@ function generateMarkdown(data) {
   
   ## Install
   ${data.install}
+
+  ## Usage
+  ${data.usage}
   
   ## Test
   ${data.test}
@@ -68,7 +72,7 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
 
   ## Github
-  ${data.github}
+  https://github.com/${data.github}
 
   ## Email Address
   ${data.email}

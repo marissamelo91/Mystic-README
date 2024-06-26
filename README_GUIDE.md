@@ -36,6 +36,8 @@ Professor and classmates<br>
 Class lectures and AI tools <br>
 
 ## Walkthrough Video 
-https://drive.google.com/file/d/1ZbJAso59IMPGuHQAWtHWp9LHrlVz-VVS/view?usp=sharing
+https://drive.google.com/file/d/1OFTY8g2_nsNQFmSJJuE285JcMYS8ZSze/view?usp=sharing
+
+
 
 
